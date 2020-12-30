@@ -1,0 +1,43 @@
+body
+{
+    background-color: #111;
+}
+.mainDiv
+{
+    background-image: url('../assets/wall1.jpg');
+    background-size: cover;
+    height: 50%;
+    color: #fff;
+    margin-top: 0;
+}
+
+.navlink
+{
+    color: #fff;
+}
+
+.iconDiv
+{
+    margin-top: 100px;
+    padding: 100px;
+}
+
+.iconCol
+{
+    text-align: center;
+}
+
+.mainIcons 
+{
+    color: #fff;
+    font-size: 120px;
+    text-align: center;
+
+
+}
+
+.buttonRow
+{
+    margin-top: 100px;
+    background-color: rgba(255,255,255,0.4);
+}
